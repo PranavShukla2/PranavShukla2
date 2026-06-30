@@ -2,7 +2,7 @@
 
 I build systems that read signals out of messy data — across applied ML on healthcare biosignals and full-stack product analytics.
 
-CS undergrad. Currently building **[ArbFlow](https://marketing-saas-platform-nb3q.vercel.app/)**, a multi-tenant GA4 analytics SaaS for agencies — live, deployed, and in active use. In parallel, writing up a **Sleep Apnea Detection** project (1D CNN, leave-one-patient-out cross-validation) for publication.
+CS undergrad. Currently building **[ArbFlow](https://marketing-saas-platform-pi.vercel.app/)**, a multi-tenant GA4 analytics SaaS for agencies — live, deployed, and in active use. In parallel, writing up a **Sleep Apnea Detection** project (1D CNN, leave-one-patient-out cross-validation) for publication.
 
 I gravitate to early-stage teams where building, shipping, and owning the outcome happen at the same desk.
 
