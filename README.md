@@ -26,5 +26,5 @@ I gravitate to early-stage teams where building, shipping, and owning the outcom
 
 ### Elsewhere
 - 🌐 Portfolio — [pranavmshukla.in](https://pranavmshukla.in)
-- 💼 LinkedIn — (https://www.linkedin.com/in/pranav-shukla-softwaredeveloper/)
+- 💼 LinkedIn — https://www.linkedin.com/in/pranav-shukla-softwaredeveloper/
 - ✉️ Email — pranavmshukla@gmail.com
